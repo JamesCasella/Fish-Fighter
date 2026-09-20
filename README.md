@@ -1,5 +1,5 @@
 # Fighting-Fish
-My game "Fighting Fish", made for Steelhacks 2026, pretty fun time making it. 
+My game "Fish Fighter", made for Steelhacks 2026, pretty fun time making it. 
 
 Took a while to think of a game idea, needed something fun and somewhat original enough while also giving myself a fair amount of work that I could do in 24 hours. Wanted to do a fighting game and though fish sounded cool with fighters so bam, Fish Fighters. Pretty proud overall, designing took much more time then I thought, it getting over the humps and bugs of coding sucked. Used Pygame to create it, found much media online that helped me learn as I went along and it wasn't the most hard language to deal with.  The thing that took the longest for sure though was getting the main characters to be animated correctly and line up with where they were supposed to be on screen.  Probably will come back to it, lots more needs to be done, but for now it works well. 
 
